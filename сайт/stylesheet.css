@@ -6,7 +6,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background-image: url("../Files/images/warhammer.jpg");
+    background-image: url("images/warhammer.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
