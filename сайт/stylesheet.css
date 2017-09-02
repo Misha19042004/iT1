@@ -12,7 +12,9 @@ header {
     background-size: cover;
     display: flex;
     justify-content: center;
-    align-items:center;
+    align-items: center;
+    animation-name: fadeIn;
+    animation-duration: 4s;
 }
 footer {
     width: 100%;
@@ -25,10 +27,15 @@ footer {
     align-items: center;
 }
 
-.article {
-
+article {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.section {
+section {
 
 }
 
