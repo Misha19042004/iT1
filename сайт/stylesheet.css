@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    width: 100%;
+    width: 100vw;
     height: 100vh;
     background-image: url("images/warhammer.jpg");
     background-repeat: no-repeat;
@@ -35,7 +35,7 @@ article {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: blac;
+    background-color:black;
 }
 section {
 
@@ -51,6 +51,15 @@ section {
     }
 }
 
-.blek{
-font-color: #fff;
+.black{
+    background-color: #696969  ;
+    border: solid 10px  #191970;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 15px;
+
+}
+
+h2{
+    color: #fff;
 }
