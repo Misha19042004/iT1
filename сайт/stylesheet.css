@@ -29,14 +29,9 @@ footer {
 }
 
 article {
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color:black;
 }
+
 section {
 
 }
@@ -52,14 +47,73 @@ section {
 }
 
 .black{
-    background-color: #696969  ;
+    background-color: black  ;
     border: solid 10px  #191970;
     margin-left: 20px;
     margin-right: 20px;
     font-size: 15px;
 
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info{
+    border: solid 10px  #191970;
+    background-color: #696969;
+    padding: 10px;
 }
 
 h2{
     color: #fff;
+}
+
+.imperor{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px  #191970;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.imperorr{
+    border: solid 10px  #191970;
+    background-color: #696969;
+    padding: 10px;
+
+}
+
+.era{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid 10px  #191970;
+    background-color: black;
+    float: left;
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.eraa{
+
+    border: solid 10px  #191970;
+    background-color: #696969;
+    padding: 10px;
 }
